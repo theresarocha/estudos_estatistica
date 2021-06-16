@@ -4,11 +4,17 @@ Autor: Theresa Rocha
 
 Ferramenta: Python
 
+## Objetivo
+
 Este projeto tem por objetivo compreender como é feita uma análise exploratória de dados. 
 
-Para este estudo, utilizei o conjunto de dados de 36 empregados do departamento de orçamentos da empresa fictícia Companhia MB (Milsa) abordado no Capítulo 2 do livro Estatística Básica de P. A. Morettin e W. O. Bussab. 
+Para este estudo, utilizei o conjunto de dados de 36 empregados do departamento de orçamentos da empresa fictícia Companhia MB (Milsa) abordado no Capítulo 2 do livro Estatística Básica de P. A. Morettin e W. O. Bussab.
 
 Utilizei como referência o livro acima citado e os materiais elaborados pelo Professor Fernando de Pol Mayer da UFPR. Neste último, as análises foram feitas utilizando a linguagem de programação R. Para este projeto, interpretei o estudo realizado pelo professor Fernando e transcrevi para a linguagem Python, indo além em algumas análises.
+
+## Materiais de Estudo
+
+- BUSSAB, Wilton de O.; MORETTIN, Pedro A. Estatística Básica. 6ª Edição. São Paulo: Saraiva, 2010.
 
 - Análise Exploratória de Dados - Moodle UFSC: https://www.inf.ufsc.br/~andre.zibetti/probabilidade/aed.html
 
