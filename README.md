@@ -12,6 +12,10 @@ Para este estudo, utilizei o conjunto de dados de 36 empregados do departamento 
 
 Utilizei como referência o livro acima citado e os materiais elaborados pelo Professor Fernando de Pol Mayer da UFPR. Neste último, as análises foram feitas utilizando a linguagem de programação R. Para este projeto, interpretei o estudo realizado pelo professor Fernando e transcrevi para a linguagem Python, indo além em algumas análises.
 
+## Bibliotecas
+
+Como meu primeiro projeto exploratório de dados, utilizei a biblioteca pandas para fazer análises univariadas e entre variáveis, explorando o conjunto de dados e tirando insights sobre o perfil dos funcionários da organização. Também utilizei as bibliotecas matplotib e seaborn para criar gráficos de dispersão, boxplot e barras empilhadas.
+
 ## Materiais de Estudo
 
 - BUSSAB, Wilton de O.; MORETTIN, Pedro A. Estatística Básica. 6ª Edição. São Paulo: Saraiva, 2010.
